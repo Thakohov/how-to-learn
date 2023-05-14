@@ -1,11 +1,8 @@
-.resources__logo {
-  width: 270px;
-  height: 38px;
+.resources__link {
   text-decoration: none;
-  object-fit: contain;
 }
 
-.resources__logo:hover {
+.resources__link:hover {
   opacity: .5;
   transition: ease;
   transition-duration: 1s;
